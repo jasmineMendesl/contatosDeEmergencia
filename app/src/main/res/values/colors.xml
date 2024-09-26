@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color> <!-- Vermelho -->
+    <color name="colorPrimaryDark">#B00000</color> <!-- Vermelho Escuro -->
+    <color name="colorAccent">#FF4081</color> <!-- Rosa para destaque -->
+    <color name="background">#FFFFFF</color> <!-- Branco -->
+    <color name="textColor">#000000</color> <!-- Preto -->
+
+<!--    colors night-->
+    <color name="colorPrimaryN">#800080</color> <!-- Roxo -->
+    <color name="colorPrimaryDarkN">#4B0082</color> <!-- Roxo Escuro -->
+    <color name="colorAccentN">#FF4081</color> <!-- Rosa para destaque -->
+    <color name="backgroundN">#121212</color> <!-- Preto -->
+    <color name="textColorN">#FFFFFF</color> <!-- Branco -->
+
+
+
+
+</resources>
